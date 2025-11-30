@@ -1,2 +1,2 @@
 # Python-NFL-Game
-NFL Quarter back guessing game 
+NFL Quarterback guessing game 
